@@ -55,4 +55,4 @@ The statements of the exercises were taken from a Python class on the channel [C
 
 ---
 
-<p align="center"><strong>Por <a href="https://www.linkedin.com/in/gabriel-ribeiro-data/" target="_blank">Gabriel Ribeiro</a></strong></p>
+<p align="center"><strong> <a href="https://www.linkedin.com/in/gabriel-ribeiro-data/" target="_blank">Gabriel Ribeiro</a></strong></p>
